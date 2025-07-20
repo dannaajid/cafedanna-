@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cafedanna</title>
+  <title></title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -73,7 +73,7 @@
 <body>
 
   <header>
-    <img src="https://via.placeholder.com/150x60.png?text=Cafe+Logo" alt="Cafe Logo">
+    <img src="20250720_221620_0000.png" alt="Cafe Logo">
     <h1>Cafedanna</h1>
     <p>Where Sweet Moments Brew</p>
   </header>
