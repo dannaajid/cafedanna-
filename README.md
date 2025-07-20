@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cozy Bean Café</title>
+  <title>Cafedanna</title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -86,7 +86,7 @@
   </nav>
 
   <section id="home">
-    <h2>Welcome to Cozy Bean</h2>
+    <h2>Welcome to Cafedanna</h2>
     <p>Enjoy handcrafted pastries and aromatic coffee in a cozy minimalist space made just for you.</p>
   </section>
 
