@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -74,7 +74,7 @@
 
   <header>
     <img src="https://via.placeholder.com/150x60.png?text=Cafe+Logo" alt="Cafe Logo">
-    <h1>Cozy Bean Café</h1>
+    <h1>Cafedanna</h1>
     <p>Where Sweet Moments Brew</p>
   </header>
 
